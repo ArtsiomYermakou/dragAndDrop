@@ -1,0 +1,25 @@
+.gridItem {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.gridItemSecond {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    background-color: black;
+    color: #fff;
+}
+
+.gridDropZone {
+    height: 400px;
+    margin: 20px;
+}
+
+.buttonAdd {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 210px;
+}
